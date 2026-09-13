@@ -8,9 +8,15 @@
 
 <br/>
 
-```ts
+
 const adithyan = {
   location : "Kerala, India 🌴",
   focus    : ["automation", "bots", "full-stack"],
   website  : "itsadithyan.online",
 };
+<br/>
+<picture>A-d-i-t-h-y-a-n-x-d
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-d-i-t-h-y-a-n-x-d/A-d-i-t-h-y-a-n-x-d/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-d-i-t-h-y-a-n-x-d//output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/A-d-i-t-h-y-a-n-x-d/A-d-i-t-h-y-a-n-x-d/output/github-contribution-grid-snake.svg">
+</picture>
